@@ -13,14 +13,4 @@ This project implements a simple firewall using iptables to filter incoming and 
    ```bash
    git clone https://github.com/obikhan/basic-firewall.git
    cd basic-firewall   
----
-
-### **2. Commit and Push Everything to GitHub**
-After updating `README.md`, **add, commit, and push** everything to GitHub:
-
-```bash
-git add setup.sh README.md
-git commit -m "Added setup script and updated README instructions"
-git push origin main
-
 
